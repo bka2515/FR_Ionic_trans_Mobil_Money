@@ -1,0 +1,7 @@
+{
+  "name": "Trans_Mobil_MoneyIon",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
